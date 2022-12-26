@@ -932,8 +932,21 @@ display: block;}
     margin-right: 0;
 }
 .md_footer {
+    width: 100%; background: url('../images/bgrond_21.jpg') no-repeat center center;
+    background-size: cover; padding: 100px 0 130px;
+    position: relative;
+    z-index: 1
+}
+.md_footer::before {
+    content: "";
+    background: #000;
     width: 100%;
-    padding: 60px 0;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+    opacity: 0.85;
 }
 .disclaimer {
     width: 80%;
