@@ -329,9 +329,12 @@ img.tplogo {
     max-height: 80px;
 }
 .md_sites .md_sites_logo a {
-    margin: 0 76px 0 0;
+    /* margin: 0 76px 0 0; */
+    margin: auto;
 }
-
+.md_sites a{
+    pointer-events: none;
+}
 .md_wheels{width: 100%;position: relative; overflow: hidden; padding: 160px 0 195px; background: linear-gradient(to right, #a15f07, #000000 70%);position: relative;}
 .md_wheels .md_girl {
     display: block;
