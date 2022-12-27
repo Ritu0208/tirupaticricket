@@ -430,7 +430,7 @@ img.tplogo {
     width: auto;
 }
 
-.md_cs{width: 100%; background: url('../images/custommer-support-bg.jpg') no-repeat center center;
+.md_cs{width: 100%; background: url('../images/custommer-support-bg.webp') no-repeat center center;
   background-size: cover; ;padding: 100px 0 130px;
   position: relative;
   z-index: 1;
@@ -683,7 +683,7 @@ display: block;}
     filter: drop-shadow(0px 0px 16px #c29c5c);
 }
 
-.lb_celeb{width: 100%; background: url('../images/empty-save-texture-room-light.jpg') no-repeat center center;
+.lb_celeb{width: 100%; background: url('../images/empty-save-texture-room-light.webp') no-repeat center center;
     background-size: cover; 
     background-attachment: fixed;
     padding: 100px 0 130px;
@@ -837,7 +837,7 @@ display: block;}
 }
 .md_insta {
     width: 100%;
-    background: url('../images/instagram-bg.jpg') no-repeat center center;
+    background: url('../images/instagram-bg.webp') no-repeat center center;
     background-size: cover;
     padding: 70px 0 40px;
     position: relative;
