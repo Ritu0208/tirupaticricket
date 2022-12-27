@@ -196,7 +196,7 @@ img.tplogo {
 
 .md_banner {
     width: 100%;
-    background: url(../images/banner-bg.jpg) no-repeat center center;
+    background: url('../images/banner-bg.webp') no-repeat center center;
     background-size: cover;
     padding: 360px 0 80px;position: relative;
     z-index: 1;
@@ -571,7 +571,7 @@ display: block;}
     text-shadow: 0 0 4px #F3DFA4;
 }
 
-.md_htp{width: 100%; background: url('../images/9bbbb.jpg') no-repeat center center;
+.md_htp{width: 100%; background: url('../images/9bbbb.webp') no-repeat center center;
     background-size: cover; ;padding: 100px 0 130px;
     position: relative;
     z-index: 1;}
@@ -923,7 +923,7 @@ display: block;}
     margin-right: 0;
 }
 .md_footer {
-    width: 100%; background: url('../images/bgrond_21.jpg') no-repeat center center;
+    width: 100%; background: url('../images/bgrond_21.webp') no-repeat center center;
     background-size: cover; padding: 100px 0 130px;
     background-attachment: fixed;
     position: relative;
@@ -1187,12 +1187,12 @@ display: block;}
     opacity: 1;
     box-shadow: #e0c653 0px 0px 13px 7px;
 }
-/* @keyframes rotateHexa {
-    /* 0% {transform: translate(0px, 0px);} */
+@keyframes rotateHexa {
+     0% {transform: translate(0px, 0px);} 
     14% {transform: translate(133px, 77px);}
     29% {transform: translate(145px, 241px);}
     44%{transform: translate(0px, 315px);}
     59%{transform: translate(-140px, 245px);}
     74%{transform: translate(-138px, 74px);}
     100%{transform: translate(0,0);}
-  } */
+  } 
