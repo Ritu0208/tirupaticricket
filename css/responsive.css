@@ -82,7 +82,7 @@ transform: translate(0px,-5px);
 }
 
 @media screen and (max-width:1279px) {
-@keyframes rotateHexa{
+/* @keyframes rotateHexa{
 	14% {
 		transform: translate(100px, 50px);
 	}
@@ -99,7 +99,7 @@ transform: translate(0px,-5px);
 		transform: translate(-100px, 55px);
 	}
 
-}
+} */
 img.logo-bg {
     width: 240px !important;
     max-height: 100% !important;
@@ -417,7 +417,7 @@ img.logo-bg {
     width: 220px !important;
     max-height: 100% !important;
 }
-@keyframes rotateHexa{
+/* @keyframes rotateHexa{
 	14% {
 		transform: translate(100px, 45px);
 	}
@@ -433,7 +433,7 @@ img.logo-bg {
 	74% {
 		transform: translate(-100px, 55px);
 	}
-}
+} */
 .md_cs .md_cs_inn .md_cs_rgt .md_logocs .btmlogo{
 	bottom: -40px;
 }
