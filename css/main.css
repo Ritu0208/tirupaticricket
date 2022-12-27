@@ -1187,7 +1187,7 @@ display: block;}
     opacity: 1;
     box-shadow: #e0c653 0px 0px 13px 7px;
 }
-@keyframes rotateHexa {
+/* @keyframes rotateHexa {
     /* 0% {transform: translate(0px, 0px);} */
     14% {transform: translate(133px, 77px);}
     29% {transform: translate(145px, 241px);}
@@ -1195,4 +1195,4 @@ display: block;}
     59%{transform: translate(-140px, 245px);}
     74%{transform: translate(-138px, 74px);}
     100%{transform: translate(0,0);}
-  }
+  } */
